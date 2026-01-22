@@ -1,5 +1,7 @@
 # Tourism_Tableau_Project
 
+---
+
 ## 📌 Project Objective
 
 The purpose of this project is to analyze tourism data and extract meaningful insights using Tableau.
@@ -90,6 +92,8 @@ Interactive dashboards make exploration easy
 
 Clean layout improves readability and understanding
 
+---
+
 ## 📌 Value of the Project
 
 This project helps:
@@ -115,6 +119,70 @@ Designing insight-focused dashboards
 Improving analytical and visualization skills
 
 ---
+
+## 📊 Visuals & DashBoard
+
+---
+
+<img width="1442" height="712" alt="Screenshot 2026-01-18 191813" src="https://github.com/user-attachments/assets/cf22bcdd-f46f-4778-8f0d-4a82aa8f4c8e" />
+
+---
+
+<img width="1437" height="699" alt="Screenshot 2026-01-18 191855" src="https://github.com/user-attachments/assets/cc1eeb0d-2e6f-49ec-a907-de1c9d978f76" />
+
+---
+
+<img width="1449" height="709" alt="Screenshot 2026-01-18 191921" src="https://github.com/user-attachments/assets/bbeaa0b4-15ce-4a92-ab10-6e4dab40200f" />
+
+---
+
+<img width="1453" height="728" alt="Screenshot 2026-01-18 191943" src="https://github.com/user-attachments/assets/ec5e7342-e2fb-4238-8999-d6b8b0db5b47" />
+
+---
+
+<img width="1449" height="709" alt="Screenshot 2026-01-18 192005" src="https://github.com/user-attachments/assets/3fa8831d-1254-473f-ae98-592ad070405b" />
+
+---
+
+<img width="1449" height="721" alt="Screenshot 2026-01-18 192029" src="https://github.com/user-attachments/assets/5c6cefed-2dd0-4959-9618-a55bd6f65bd3" />
+
+---
+
+<img width="1449" height="703" alt="Screenshot 2026-01-18 192057" src="https://github.com/user-attachments/assets/273e13a1-ae24-48ef-98c3-f1bfe7d1d74c" />
+
+---
+
+<img width="1648" height="791" alt="Screenshot 2026-01-18 192305" src="https://github.com/user-attachments/assets/b58e358f-2aa3-42ac-8699-c2caa32293d9" />
+
+---
+
+<img width="1647" height="793" alt="Screenshot 2026-01-18 192335" src="https://github.com/user-attachments/assets/509fc95d-d93e-4376-81aa-f15b9baccf8e" />
+
+---
+
+<img width="1653" height="779" alt="Screenshot 2026-01-18 192359" src="https://github.com/user-attachments/assets/19f40262-6625-4b5b-8ec4-919611bbd118" />
+
+---
+
+<img width="1655" height="777" alt="Screenshot 2026-01-18 192419" src="https://github.com/user-attachments/assets/6c0a12de-41c0-4365-8bbc-2705559870e7" />
+
+---
+
+<img width="1655" height="780" alt="Screenshot 2026-01-18 192440" src="https://github.com/user-attachments/assets/e132a2c7-f84b-49c6-ba92-6119d8f376ee" />
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
